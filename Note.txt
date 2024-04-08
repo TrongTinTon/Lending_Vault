@@ -1,0 +1,7 @@
+API Sử dụng
+http://localhost:3000/lending/withdraw-insert  => Thêm mới sự kiện gửi tiền cho vai
+http://localhost:3000/lending/deposit-insert  => Thêm mới sự kiện  rút tiền cho vai
+http://localhost:3000/lending/list => Lấy danh sách tất cả phụ kiện
+
+Kết nối db localhost:3306
+Database name: bank_db;
